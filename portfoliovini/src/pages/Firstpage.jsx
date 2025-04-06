@@ -8,7 +8,7 @@ import TiltedCard from '../componentes/TiltedCard';
 import DecryptedText from '../componentes/DecryptedText';
 import RotatingText from '../componentes/RotatingText';
 import Ribbons from '../componentes/Ribbons';
-import SecondPage from './SecondPage';
+// import SecondPage from './SecondPage.jsx';
 
 const FirstPage = () => {
     const items = [
@@ -83,7 +83,7 @@ const FirstPage = () => {
 
             <div className="      " >
        
-<SecondPage/>
+{/* <SecondPage/> */}
 
                 {/* <div className="">
 
