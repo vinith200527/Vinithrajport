@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Firstpage from './pages/Firstpage'
+import Firstpage from './pages/Firstpage.jsx'
 import SplashCursor from './componentes/SplashCursor'
 
 function App() {
