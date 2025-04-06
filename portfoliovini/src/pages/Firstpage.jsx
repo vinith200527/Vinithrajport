@@ -8,7 +8,7 @@ import TiltedCard from '../componentes/TiltedCard';
 import DecryptedText from '../componentes/DecryptedText';
 import RotatingText from '../componentes/RotatingText';
 import Ribbons from '../componentes/Ribbons';
-import SecondPage from './secondpage';
+import SecondPage from './SecondPage';
 
 const FirstPage = () => {
     const items = [
