@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import Firstpage from './pages/Firstpage.jsx'
 import SplashCursor from './componentes/SplashCursor'
+import FirstPage from './pages/Firstpage'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,7 +10,7 @@ function App() {
     <>
         <SplashCursor/>
 
-    <Firstpage/>
+    <FirstPage/>
     </>
   )
 }

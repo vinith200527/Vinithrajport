@@ -10,7 +10,7 @@ import RotatingText from '../componentes/RotatingText';
 import Ribbons from '../componentes/Ribbons';
 import SecondPage from './secondpage';
 
-const Firstpage = () => {
+const FirstPage = () => {
     const items = [
         { label: "Home", href: "#" },
         { label: "About", href: "#" },
@@ -164,4 +164,4 @@ const Firstpage = () => {
     )
 }
 
-export default Firstpage
+export default FirstPage
