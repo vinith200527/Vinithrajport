@@ -4,7 +4,7 @@ import BlurText from '../componentes/BlurText'
 import DecryptedText from '../componentes/DecryptedText';
 import SplashCursor from '../componentes/SplashCursor';
 
-const Secondpage = () => {
+const SecondPage = () => {
 
 
     const handleAnimationComplete = () => {
@@ -129,4 +129,4 @@ const Secondpage = () => {
     )
 }
 
-export default Secondpage
+export default SecondPage
